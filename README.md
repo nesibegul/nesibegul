@@ -4,7 +4,7 @@
 
  
  <div id="header" align="center">
-  <img src="https://github.com/nesibegul/cv/blob/main/universe2.gif" width="1000" height="500"/>
+  <img src="https://github.com/nesibegul/cv/blob/main/universe2.gif" width="1000" height="400"/>
 </div>
 
 ![](..)
