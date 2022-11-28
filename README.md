@@ -15,7 +15,8 @@
 5. [Python for data analyses video series](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 6. [Practice with some exploratory data analysis collections](https://github.com/iNeuronai/EDACollection)
 7. [Python Data Analysis Handbook in colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-8. 
+8. [Advance feature engineering and data preparation techniques for machine learning models](https://github.com/nesibegul/BOOKS-and-SOURCES/blob/main/data_preparation_for_machine_learning.pdf)
+
  
 
 <!---
