@@ -22,9 +22,11 @@
 1. [Before starting with coding let`s lay foundation of design thinking](https://faculty.washington.edu/ajko/books/design-methods/#/creative)
 2. [Fundemantals of Data Visualization Book](https://clauswilke.com/dataviz/)
 3. [Data visualization fundemantal libraries notebooks](https://github.com/nesibegul/BOOKS-and-SOURCES/tree/main/Data%20Visualization%20Collection)
-4. [Spotify: Exploratory visual analysis](https://www.youtube.com/watch?v=pgSLSYLNEq0)
-5. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
-6. [Another cool website has interesting visualization samples](https://www.pitchinteractive.com/)
+4. [Matplotlib tutorial from its website](https://matplotlib.org/stable/tutorials/index.html)
+5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+6. [Spotify: Exploratory visual analysis](https://www.youtube.com/watch?v=pgSLSYLNEq0)
+7. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
+8. [Another cool website has interesting visualization samples](https://www.pitchinteractive.com/)
 
  
 
