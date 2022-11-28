@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 # Data Analysis Sources in Python for Newbies
 
 1. [Python for data analysis video series](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
