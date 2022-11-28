@@ -28,7 +28,7 @@
 5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
 6. [Spotify: Exploratory visual analysis](https://www.youtube.com/watch?v=pgSLSYLNEq0)
 7. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
-8. [Another cool website has interesting visualization samples](https://www.pitchinteractive.com/)
+8. [Another cool website with interesting visualization samples](https://www.pitchinteractive.com/)
 
  
 
