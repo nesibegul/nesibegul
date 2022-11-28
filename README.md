@@ -15,7 +15,7 @@
 5. [Advance feature engineering and data preparation techniques for machine learning models](https://github.com/nesibegul/BOOKS-and-SOURCES/blob/main/data_preparation_for_machine_learning.pdf)
 6. [Don`t forget to learn libraries from official documents: pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/07_reshape_table_layout.html)
 7. [Pandas comparison with SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)
-8. [Numpy to deal with arrays with](https://numpy.org/numpy-tutorials/)
+8. [Numpy to deal with arrays](https://numpy.org/numpy-tutorials/)
 
  
 
