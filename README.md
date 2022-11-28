@@ -2,11 +2,12 @@
 - 👀 I’m interested in Data Analysis, Data Visualization, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Convolutional Neural Networks
 
+ 
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/nesibegul/cv/blob/main/universe2.gif" width="1000" height="500"/>
 </div>
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](..)
 
 # Data Analysis Sources in Python for Newbies
 
