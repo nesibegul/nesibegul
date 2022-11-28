@@ -20,7 +20,7 @@
 # Data Visualization in Python
 
 1. [Before starting with coding let`s lay foundation of design thinking](https://faculty.washington.edu/ajko/books/design-methods/#/creative)
-2. [Fundemantals if Data Visualization Book](https://clauswilke.com/dataviz/)
+2. [Fundemantals of Data Visualization Book](https://clauswilke.com/dataviz/)
 3. [Data visualization fundemantal libraries notebooks](https://github.com/nesibegul/BOOKS-and-SOURCES/tree/main/Data%20Visualization%20Collection)
 
  
