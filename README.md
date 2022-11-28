@@ -17,6 +17,11 @@
 7. [Python Data Analysis Handbook in colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 8. [Advance feature engineering and data preparation techniques for machine learning models](https://github.com/nesibegul/BOOKS-and-SOURCES/blob/main/data_preparation_for_machine_learning.pdf)
 
+# Data Visualization in Python
+
+1. [Before starting with coding let`s lay foundation of design thinking](https://faculty.washington.edu/ajko/books/design-methods/#/creative)
+2. [Fundemantals if Data Visualization Book](https://clauswilke.com/dataviz/)
+3. [Data visualization fundemantal libraries notebooks](https://github.com/nesibegul/BOOKS-and-SOURCES/tree/main/Data%20Visualization%20Collection)
 
  
 
