@@ -14,6 +14,8 @@
 4. [If you like learning from videos quick start EDA and Feature Engineering topics with Krish Naik videos](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 5. [Python for data analyses video series](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 6. [Practice with some exploratory data analysis collections](https://github.com/iNeuronai/EDACollection)
+7. [Python Data Analysis Handbook in colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+8. 
  
 
 <!---
