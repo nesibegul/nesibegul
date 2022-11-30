@@ -27,9 +27,10 @@
 3. [Data visualization fundemantal libraries notebooks](https://github.com/nesibegul/BOOKS-and-SOURCES/tree/main/Data%20Visualization%20Collection)
 4. [Matplotlib tutorial from its website](https://matplotlib.org/stable/tutorials/index.html)
 5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
-6. [Spotify: Exploratory visual analysis](https://www.youtube.com/watch?v=pgSLSYLNEq0)
-7. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
-8. [Another cool website with interesting visualization samples](https://www.pitchinteractive.com/)
+6. [A survey on visualizatin techniques: which techniques when?](https://github.com/nesibegul/BOOKS-and-SOURCES/blob/main/1_A_survey_of_powerful_visualization_techniques_from_the_obvious_to_the_obscure.pdf)
+7. [Spotify: Exploratory visual analysis](https://www.youtube.com/watch?v=pgSLSYLNEq0)
+8. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
+9. [Another cool website with interesting visualization samples](https://www.pitchinteractive.com/)
 
  
 
