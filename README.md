@@ -1,4 +1,4 @@
-- 👋 Hi, Nice to see you
+## 👋 Hi, Nice to see you
 - 👀 I’m interested in Data Analysis, Data Visualization, and Machine Learning
 - 🌱 I’m currently learning Convolutional Neural Networks for Deep Learning
 
