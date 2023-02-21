@@ -18,7 +18,7 @@
 # Machine Learning Projects
 1. [End to End Algerian Forest Classification and Regression Project](https://github.com/nesibegul/Algerian-Forest-Classification-and-Regression)
 2. [End to End House Price Prediction Machine Learning Project](https://github.com/nesibegul/House-Price-Prediction)
-)
+
 
 # Data Analysis Sources in Python
 
@@ -44,7 +44,7 @@
 9. [Another cool website with interesting visualization samples](https://www.pitchinteractive.com/)
 
 # Image Processing Projects
-1. [Color traformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
+1. [Color transformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
 
  
 
