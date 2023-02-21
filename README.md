@@ -9,12 +9,16 @@
 
 ![](..)
 
-# Data Analysis an Visualization Projects
-1. [Data analysis, prepocessing and visualization ](https://github.com/nesibegul/DataManipulation)
-2. [College income dataset analysis with visualization](https://github.com/nesibegul/Visualization/blob/main/Visualization%20Homework-Copy1.ipynb)
-3. [Interactive visualization on global death causes dataset](https://github.com/nesibegul/Visualization/blob/main/1.InteractiveVisualization%20(1).ipynb)
+#  📫 Data Analysis and Visualization Projects
+1. [Data analysis, prepocessing and visualization project](https://github.com/nesibegul/DataManipulation)
+2. [College income dataset analysis with visualization project](https://github.com/nesibegul/Visualization/blob/main/Visualization%20Homework-Copy1.ipynb)
+3. [Interactive visualization on global death causes dataset project](https://github.com/nesibegul/Visualization/blob/main/1.InteractiveVisualization%20(1).ipynb)
 4. [Exploratory Data Analysis and Feature Engineering Projects](https://github.com/nesibegul/EDA-and-Feature-Engineering-)
 
+# Machine Learning Projects
+1. [End to End Algerian Forest Classification and Regression Project](https://github.com/nesibegul/Algerian-Forest-Classification-and-Regression)
+2. [End to End House Price Prediction Machine Learning Project](https://github.com/nesibegul/House-Price-Prediction)
+)
 
 # Data Analysis Sources in Python
 
@@ -27,7 +31,7 @@
 7. [Python Data Analysis Handbook in colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 8. [Advance feature engineering and data preparation techniques for machine learning models](https://github.com/nesibegul/BOOKS-and-SOURCES/blob/main/data_preparation_for_machine_learning.pdf)
 
-# Data Visualization in Python
+# Data Visualization Sources in Python
 
 1. [Before starting with coding let`s lay foundation of design thinking](https://faculty.washington.edu/ajko/books/design-methods/#/creative)
 2. [Fundemantals of Data Visualization Book](https://clauswilke.com/dataviz/)
@@ -38,6 +42,9 @@
 7. [Spotify: Exploratory visual analysis](https://www.youtube.com/watch?v=pgSLSYLNEq0)
 8. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
 9. [Another cool website with interesting visualization samples](https://www.pitchinteractive.com/)
+
+# Image Processing Projects
+1. []
 
  
 
