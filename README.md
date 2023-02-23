@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Convolutional Neural Networks for Deep Learning
 
  
- <div id="header" align="center">
-  <img src="https://github.com/nesibegul/cv/blob/main/universe2.gif" width="900" height="230"/>
+ <div id="header" align="left">
+  <img src="https://github.com/nesibegul/cv/blob/main/oasisnetwork-sun.gif" width="900" height="230"/>
 </div>
 
 ![](..)
