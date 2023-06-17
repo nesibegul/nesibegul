@@ -1,6 +1,6 @@
 ## 👋 Hi, Nice to see you
-- 👀 I’m interested in Data Analysis, Data Visualization, and Machine Learning
-- 🌱 I’m currently learning Deep Learning Applications like Convolutional Neural Networks
+- 👀 I have experience and many projects in Data Analysis, Data Visualization, and Machine Learning
+- 🌱 I’m currently learning Deep Learning Models in Convolutional Neural Networks area like VGG90, ResNet, and YOLO models
 
  
  <div id="header" align="left">
