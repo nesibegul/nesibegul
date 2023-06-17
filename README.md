@@ -8,24 +8,22 @@
 </div>
 
 ![](..)
-# Deep Learning Image Processing Projects
-1. [Color transformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
-2. [Bone Fracture detection project with YOLOV model](https://github.com/nesibegul/BoneFracture_YOLOv8/blob/main/Bone_Fracture.ipynb)
-3. [Land Cover and Usage Classification with CNN and VGG19 fine-tuning](https://github.com/nesibegul/Deep-Learning-with-LandCover-Dataset/blob/main/2_DeepLearningApps.ipynb)
+# 📫 Deep Learning and Image Processing Projects
+1. [Bone Fracture detection project with YOLOV model](https://github.com/nesibegul/BoneFracture_YOLOv8/blob/main/Bone_Fracture.ipynb)
+2. [Land Cover and Usage Classification with CNN and VGG19 fine-tuning](https://github.com/nesibegul/Deep-Learning-with-LandCover-Dataset/blob/main/2_DeepLearningApps.ipynb)
+3. [Color transformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
+
+# Machine Learning Projects
+1. [End to End Algerian Forest Classification and Regression Project](https://github.com/nesibegul/Algerian-Forest-Classification-and-Regression)
+2. [End to End House Price Prediction Machine Learning Project](https://github.com/nesibegul/House-Price-Prediction)
    
-#  📫 Data Analysis and Visualization Projects
+#  Data Analysis and Visualization Projects
 1. [Data analysis, prepocessing and visualization project](https://github.com/nesibegul/DataManipulation)
 2. [College income dataset analysis with visualization project](https://github.com/nesibegul/Visualization/blob/main/Visualization%20Homework-Copy1.ipynb)
 3. [Interactive visualization on global death causes dataset project](https://github.com/nesibegul/Visualization/blob/main/1.InteractiveVisualization%20(1).ipynb)
 4. [Exploratory Data Analysis and Feature Engineering Projects](https://github.com/nesibegul/EDA-and-Feature-Engineering-)
 
-# Machine Learning Projects
-1. [End to End Algerian Forest Classification and Regression Project](https://github.com/nesibegul/Algerian-Forest-Classification-and-Regression)
-2. [End to End House Price Prediction Machine Learning Project](https://github.com/nesibegul/House-Price-Prediction)
-
-
 # Data Analysis Sources in Python
-
 1. [Python for data analysis video series](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 2. [If you like learning from videos quick start EDA and Feature Engineering topics with Krish Naik videos](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 3. [Practice with some exploratory data analysis collections](https://github.com/iNeuronai/EDACollection)
