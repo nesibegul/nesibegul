@@ -8,7 +8,11 @@
 </div>
 
 ![](..)
-
+# Deep Learning Image Processing Projects
+1. [Color transformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
+2. [Bone Fracture detection project with YOLOV model](https://github.com/nesibegul/BoneFracture_YOLOv8/blob/main/Bone_Fracture.ipynb)
+3. [Land Cover and Usage Classification with CNN and VGG19 fine-tuning](https://github.com/nesibegul/Deep-Learning-with-LandCover-Dataset/blob/main/2_DeepLearningApps.ipynb)
+   
 #  📫 Data Analysis and Visualization Projects
 1. [Data analysis, prepocessing and visualization project](https://github.com/nesibegul/DataManipulation)
 2. [College income dataset analysis with visualization project](https://github.com/nesibegul/Visualization/blob/main/Visualization%20Homework-Copy1.ipynb)
@@ -43,8 +47,7 @@
 8. [Visualization samples appeal to eyes](https://periscopic.com/#!/)
 9. [Another cool website with interesting visualization samples](https://www.pitchinteractive.com/)
 
-# Image Processing Projects
-1. [Color transformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
+
 
  
 
