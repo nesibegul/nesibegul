@@ -8,12 +8,12 @@
 </div>
 
 ![](..)
-# 📫 Deep Learning and Image Processing Projects
+# 💞️ Deep Learning and Image Processing Projects
 1. [Bone Fracture detection project with YOLOV8 model](https://github.com/nesibegul/BoneFracture_YOLOv8/blob/main/Bone_Fracture.ipynb)
 2. [Land Cover and Usage Classification with CNN and VGG19 fine-tuning](https://github.com/nesibegul/Deep-Learning-with-LandCover-Dataset/blob/main/2_DeepLearningApps.ipynb)
 3. [Color transformation, classification and filtering applications projects](https://github.com/nesibegul/Image-Processing)
 
-# Machine Learning Projects
+# 📫 Machine Learning Projects
 1. [End to End Algerian Forest Classification and Regression Project](https://github.com/nesibegul/Algerian-Forest-Classification-and-Regression)
 2. [End to End House Price Prediction Machine Learning Project](https://github.com/nesibegul/House-Price-Prediction)
    
